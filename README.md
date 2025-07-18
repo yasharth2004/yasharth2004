@@ -4,9 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Always+Learning+Something+New!" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
 
 ---
 
@@ -25,17 +23,6 @@
 
 ---
 
-## 🎯 Current Focus
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="25"> **Learning:** Advanced React Patterns & System Design  
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="25"> **Building:** Full-stack applications with modern tech stack  
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="25"> **Exploring:** Machine Learning & AI applications  
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="25"> **Contributing:** Open source projects  
-
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
-
----
-
 ## 🌐 Let's Connect
 
 <p align="center">
@@ -47,13 +34,9 @@
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
-
 ---
 
 ## 💻 Tech Arsenal
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="300">
 
 ### 🔤 Programming Languages
 <p align="center">
@@ -128,16 +111,6 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasharth2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -146,10 +119,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasharth2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasharth2004&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=FFFFFF"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750108-9b2a9609-fa8a-4aa4-8b06-4cc5d1713c6d.gif" width="500">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasharth2004&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF"/>
+</div>
 
 ---
 
@@ -159,38 +134,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yasharth2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400">
-
----
-
-## 🎨 Coding Activity
-
-<div align="center">
-  
-```text
-🌅 Morning    ████████░░░░░░░░░░░░░   35.2% 
-🌆 Daytime    ██████████████░░░░░░░   62.8% 
-🌃 Evening    ████░░░░░░░░░░░░░░░░░   18.4% 
-🌙 Night      ██░░░░░░░░░░░░░░░░░░░   8.6%
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-8ce9825ecc0d.gif" width="400">
-
----
-
-## 🎯 Goals for 2025
-
-- 🚀 **Master System Design** - Learn scalable architecture patterns
-- 🤖 **Deep Dive into AI/ML** - Build production-ready ML applications  
-- 🌐 **Contribute to Open Source** - Make meaningful contributions to major projects
-- 📱 **Mobile Development** - Explore React Native and Flutter
-- ☁️ **Cloud Technologies** - Get certified in AWS/Azure
-- 🎓 **Complete CS Degree** - Graduate with honors
-
-<img src="https://user-images.githubusercontent.com/74038190/212750871-b8a35ca4-6dfb-4d68-9d8e-4b8c7e933f67.gif" width="400">
-
 ---
 
 ## 💭 Random Dev Quote
@@ -198,18 +141,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 </div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="300">
-
----
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k6rlp4phkonhqzakmz6xnwvhqm&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Playing"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="350">
 
 ---
 
@@ -219,27 +150,10 @@
   <img src="https://komarev.com/ghpvc/?username=yasharth2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yasharth2004/yasharth2004/output/snake.svg" alt="Snake animation" />
-</div>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="200">
-</div>
-
-<div align="center">
   <h3>⭐ Don't forget to star some repositories if you find them interesting! ⭐</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 </div>
