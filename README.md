@@ -10,16 +10,14 @@
 
 ## 🚀 About Me
 
-```javascript
-const yasharth = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
-    education: "Computer Science & Engineering",
-    currentFocus: "Full Stack Development & AI/ML",
-    hobbies: ["Coding", "Learning", "Problem Solving"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄"
-};
-```
+⚡ I'm **Yasharth Kesarwani**  
+🔭 I'm a **Computer Science and Engineering** student  
+🌱 I'm currently learning **Full Stack Development & AI/ML**  
+👯 I'm looking to collaborate on **innovative projects**  
+🤝 I'm looking for help with **open source contributions**  
+💬 Ask me about **Web Development, AI/ML, or anything tech!**  
+📍 Based in **India** 🇮🇳  
+⚡ Fun fact: **I debug with console.log() and I'm proud of it!** 😄
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 
