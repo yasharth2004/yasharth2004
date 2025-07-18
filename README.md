@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm **Yasharth Kesarwani**, a pre-final year **Computer Science and Engineering** undergrad at **SRM Institute of Science and Technology, Kattankulathur** 🇮🇳.
+I'm **Yasharth Kesarwani**, a pre-final year **Computer Science and Engineering** undergrad at **SRM Institute of Science and Technology, Kattankulathur** 🇮🇳.
 
 - 🎓 Passionate about technology, problem-solving, and real-world applications of **AI/ML** and **Full Stack Development**
 - 🧠 Currently learning and building projects in **Machine Learning**, **Deep Learning**, and **MERN stack**
