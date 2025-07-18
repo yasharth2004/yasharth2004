@@ -134,8 +134,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=yasharth2004&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
+---
 
 ## 💭 Random Dev Quote
 
@@ -143,8 +142,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
+---
 
 <div align="center">
 
