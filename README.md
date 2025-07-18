@@ -10,14 +10,19 @@
 
 ## 🚀 About Me
 
-⚡ I'm **Yasharth Kesarwani**  
-🔭 I'm a **Computer Science and Engineering** student  
-🌱 I'm currently learning **Full Stack Development & AI/ML**  
-👯 I'm looking to collaborate on **innovative projects**  
-🤝 I'm looking for help with **open source contributions**  
-💬 Ask me about **Web Development, AI/ML, or anything tech!**  
-📍 Based in **India** 🇮🇳  
-⚡ Fun fact: **I debug with console.log() and I'm proud of it!** 😄
+Hey there! I'm **Yasharth Kesarwani**, a pre-final year **Computer Science and Engineering** undergrad at **SRM Institute of Science and Technology, Kattankulathur** 🇮🇳.
+
+- 🎓 Passionate about technology, problem-solving, and real-world applications of **AI/ML** and **Full Stack Development**
+- 🧠 Currently learning and building projects in **Machine Learning**, **Deep Learning**, and **MERN stack**
+- 🤝 Always up for collaborating on innovative, impactful tech projects
+- 💻 Open source enthusiast – looking to contribute and grow with the community
+- 🛠️ Projects I've worked on range from cancer detection using deep learning to water conservation dashboards
+- 💬 Love talking about **Web Development**, **AI/ML**, **Open Source**, or tech in general!
+- 📍 Based in India  
+- ⚡ Fun fact: My favorite debugging tool is still `console.log()` 😄
+
+> _"Learn. Build. Break. Repeat."_ — My personal motto!
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="350">
 
