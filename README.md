@@ -14,7 +14,7 @@
   Hey there! I'm <strong>Yasharth Kesarwani</strong>, a pre-final year <strong>Computer Science and Engineering</strong> undergrad at <strong>SRM Institute of Science and Technology, Kattankulathur</strong> 🇮🇳.
 </p>
 
-<ul align="center">
+<ul align="left">
   <li>🎓 Passionate about technology, problem-solving, and real-world applications of <strong>AI/ML</strong> and <strong>Full Stack Development</strong></li>
   <li>🧠 Currently learning and building projects in <strong>Machine Learning</strong>, <strong>Deep Learning</strong>, and <strong>MERN stack</strong></li>
   <li>🤝 Always up for collaborating on innovative, impactful tech projects</li>
