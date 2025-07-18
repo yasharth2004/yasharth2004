@@ -14,14 +14,14 @@
   Hey there! I'm <strong>Yasharth Kesarwani</strong>, a pre-final year <strong>Computer Science and Engineering</strong> undergrad at <strong>SRM Institute of Science and Technology, Kattankulathur</strong> 🇮🇳.
 </p>
 
-- 🎓 Passionate about technology, problem-solving, and real-world applications of **AI/ML** and **Full Stack Development**
-- 🧠 Currently learning and building projects in **Machine Learning**, **Deep Learning**, and **MERN stack**
-- 🤝 Always up for collaborating on innovative, impactful tech projects
-- 💻 Open source enthusiast – looking to contribute and grow with the community
-- 🛠️ Projects I've worked on range from cancer detection using deep learning to water conservation dashboards
-- 💬 Love talking about **Web Development**, **AI/ML**, **Open Source**, or tech in general!
-- 📍 Based in India  
-- ⚡ Fun fact: My favorite debugging tool is still `console.log()` 😄
+🎓 Passionate about technology, problem-solving, and real-world applications of **AI/ML** and **Full Stack Development**
+🧠 Currently learning and building projects in **Machine Learning**, **Deep Learning**, and **MERN stack**
+🤝 Always up for collaborating on innovative, impactful tech projects
+💻 Open source enthusiast – looking to contribute and grow with the community
+🛠️ Projects I've worked on range from cancer detection using deep learning to water conservation dashboards
+💬 Love talking about **Web Development**, **AI/ML**, **Open Source**, or tech in general!
+📍 Based in India  
+⚡ Fun fact: My favorite debugging tool is still `console.log()` 😄
 
 <p align="center"><em>"Learn. Build. Break. Repeat."</em> — My personal motto!</p>
 
