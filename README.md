@@ -191,23 +191,15 @@ I enjoy building practical software that combines strong engineering, thoughtful
 
 ---
 
-## GitHub Analytics
+## Developer Dashboard
 
-| Stats | Languages |
-|:---:|:---:|
-| ![Yasharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasharth2004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7C3AED&text_color=E5E7EB) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasharth2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E5E7EB) |
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yasharth2004&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00D9FF&amp;ring=7C3AED&amp;fire=F97316&amp;currStreakLabel=E5E7EB" alt="GitHub streak" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yasharth2004&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=0D1117&amp;color=00D9FF&amp;line=7C3AED&amp;point=FFFFFF" alt="GitHub activity graph" />
-
-</p>
+| Track | Signal |
+|:---|:---|
+| **Primary stack** | React, Node.js, Express, MongoDB, Prisma |
+| **AI/ML focus** | Deep learning, computer vision, model evaluation |
+| **Core strengths** | Full-stack apps, dashboards, clean APIs, responsive UI |
+| **Currently building** | Practical projects that mix software engineering with intelligent systems |
+| **Collaboration fit** | Open source, hackathons, AI tools, MERN products |
 
 ---
 
