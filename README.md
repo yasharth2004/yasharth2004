@@ -87,27 +87,68 @@ I enjoy building practical software that combines strong engineering, thoughtful
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 Cancer Detection AI</h3>
-      <p>A deep learning project focused on cancer detection using medical imaging, preprocessing, and model evaluation workflows.</p>
+      <h3>🌾 Agrovee</h3>
+      <p>AI-powered smart farming assistant with crop disease detection, weather-aware risk analysis, treatment recommendations, and a RAG-powered agricultural chatbot.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-        <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
       </p>
-      <a href="https://github.com/yasharth2004/cancer-detection">View repository →</a>
+      <a href="https://github.com/yasharth2004/Agrovee">View repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3>💧 Water Conservation Dashboard</h3>
-      <p>A full-stack dashboard for tracking water usage, visualizing patterns, and encouraging smarter conservation decisions.</p>
+      <h3>🛡️ GigShield</h3>
+      <p>AI-powered parametric insurance concept for gig workers, protecting delivery drivers from income loss due to weather, pollution, and regulatory disruptions.</p>
       <p>
         <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/MongoDB-22c55e?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/AI%2FML-7C3AED?style=flat-square" alt="AI ML" />
+        <img src="https://img.shields.io/badge/FinTech-22C55E?style=flat-square" alt="FinTech" />
       </p>
-      <a href="https://github.com/yasharth2004/water-conservation">View repository →</a>
+      <a href="https://github.com/yasharth2004/GigShield">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💧 AquaSave</h3>
+      <p>Interactive water conservation dashboard with real-time analytics, gamification, sustainability insights, badges, and usage tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwind-css&logoColor=111827" alt="Tailwind CSS" />
+      </p>
+      <a href="https://github.com/yasharth2004/AquaSave">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Quiz LeaderBoard System</h3>
+      <p>Backend integration with API polling, round and participant deduplication, aggregated leaderboard generation, and one-time submission flow.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/REST%20API-00D9FF?style=flat-square" alt="REST API" />
+      </p>
+      <a href="https://github.com/yasharth2004/Quiz_LeaderBoard_System">View repository →</a>
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>More GitHub projects</b></summary>
+<br />
+
+| Project | Stack | What it does |
+|:---|:---|:---|
+| [Smart-Text-Composer](https://github.com/yasharth2004/Smart-Text-Composer) | JavaScript, TensorFlow | LSTM-powered text prediction app with real-time suggestions and word completion. |
+| [Rock-Paper-Scissor-Game](https://github.com/yasharth2004/Rock-Paper-Scissor-Game) | HTML, CSS, JavaScript | Interactive browser game with score tracking and responsive UI. |
+| [Histopathological-Image-classification](https://github.com/yasharth2004/Histopathological-Image-classification) | Jupyter Notebook | Histopathological image classification on the PatchCamelyon dataset. |
+| [Image-classification-using-resNet34](https://github.com/yasharth2004/Image-classification-using-resNet34) | Jupyter Notebook | Image classification experiments using ResNet34. |
+| [Office-Cubicle-Monitoring-System-using-ESP32](https://github.com/yasharth2004/Office-Cubicle-Monitoring-System-using-ESP32) | C++ | ESP32-based office cubicle monitoring system. |
+| [ProjectAmazonClone](https://github.com/yasharth2004/ProjectAmazonClone) | HTML, CSS | Responsive Amazon homepage clone focused on layout and visual structure. |
+| [NetflixClone](https://github.com/yasharth2004/NetflixClone) | HTML, CSS | Netflix India landing page recreation using semantic HTML and vanilla CSS. |
+| [Currency-Converter](https://github.com/yasharth2004/Currency-Converter) | JavaScript | Currency conversion web project. |
+
+</details>
 
 ---
 
